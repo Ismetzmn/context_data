@@ -1,0 +1,728 @@
+5.8.9
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+2
+TABLE OF CONTENTS
+Preface ....................................................................................................................................................5
+1. LOGIN & LOGOUT ............................................................................................................................5
+2. Main menu ......................................................................................................................................7
+3. Dashboard .......................................................................................................................................7
+4. Rooms..............................................................................................................................................8
+4.1 Create a new room.....................................................................................................................9
+4.2 Create an academy room .........................................................................................................11
+4.3 Edit or delete a room................................................................................................................12
+4.4 Auto-join room.........................................................................................................................13
+5. Users..............................................................................................................................................13
+5.1 Different roles of users.............................................................................................................13
+5.2 View users ................................................................................................................................14
+5.3 Create a new user.....................................................................................................................15
+5.4 Import users.............................................................................................................................17
+5.5 Edit user settings......................................................................................................................18
+5.5.1 Create a permanent QR code for a user.........................................................................18
+5.5.2 Change a user’s password..............................................................................................19
+5.5.3 Disable or delete users...................................................................................................19
+6. Sessions .........................................................................................................................................21
+6.1 Show Session Report................................................................................................................21
+6.2 Sessions in personal meeting rooms........................................................................................21
+6.3 View session details..................................................................................................................22
+6.4 Download session content and recordings ..............................................................................23
+7. Tickets............................................................................................................................................24
+7.1 View tickets ..............................................................................................................................25
+7.2 Create a new ticket...................................................................................................................25
+7.3 View ticket details ....................................................................................................................27
+7.4 Edit or delete a ticket ...............................................................................................................28
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+3
+8. Storage ..........................................................................................................................................28
+9. Settings..........................................................................................................................................28
+10. License...........................................................................................................................................30
+11. Workflow.......................................................................................................................................30
+12. Profile ............................................................................................................................................30
+13. Port Settings..................................................................................................................................31
+14. Network Requirements .................................................................................................................32
+14.1 Audio and video streams..........................................................................................................32
+14.2 Audio-only stream....................................................................................................................32
+14.3 Data consumption ....................................................................................................................33
+15. Supported browsers and devices ..................................................................................................33
+16. Usage of the platform in China......................................................................................................34
+17. Supported features per licence type ............................................................................................34
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+4
+TABLE OF FIGURES
+Fig. 1: LOGIN............................................................................................................................................6
+Fig. 2: LOGOUT ........................................................................................................................................7
+Fig. 3: Main menu....................................................................................................................................7
+Fig. 4: Dashboard.....................................................................................................................................8
+Fig. 5: List of all rooms with an integrated search function ....................................................................9
+Fig. 6: Setup a new room.......................................................................................................................10
+Fig. 7: Setting up an academy room......................................................................................................11
+Fig. 8: Edit room settings.......................................................................................................................12
+Fig. 9: Deactivate or delete rooms........................................................................................................12
+Fig. 10: Overview of default room function ..........................................................................................13
+Fig. 11: List of all users with an integrated search function..................................................................15
+Fig. 12: Configure a new user in your account......................................................................................16
+Fig. 13: Import user from an excel sheet...............................................................................................17
+Fig. 14: Edit user settings ......................................................................................................................18
+Fig. 15: Create a permanent QR codes for a user..................................................................................19
+Fig. 16: Deactivate or delete user .........................................................................................................20
+Fig. 17: List of all sessions with an integrated search function .............................................................21
+Fig. 18: Personal meeting rooms for calls between users.....................................................................22
+Fig. 19: View session details.................................................................................................................23
+Fig. 20: Replay, export or delete session recordings.............................................................................24
+Fig. 21: List of all tickets with an integrated search function................................................................25
+Fig. 22: Create and configure a new ticket............................................................................................26
+Fig. 23: Ticket details.............................................................................................................................27
+Fig. 24: Storage capacity for session recordings ...................................................................................28
+Fig. 25: Account settings .......................................................................................................................29
+Fig. 26: Exemplary precall test results...................................................................................................31
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+5
+PREFACE
+The Admin Panel is the management center for VSight Remote.
+In the admin panel you can view existing rooms and users, add new ones and edit them. All
+account-related settings and preferences are configured here. You can also access the session
+reports and recordings of your sessions in the admin panel.
+This manual explains all the important functions of the admin panel so that you can easily find
+your way around. In addition, you will find information on data consumption, necessary port
+settings and network requirements for a smooth use of the VSight Remote platform.
+LOGIN:
+The admin panel can be accessed at https://admin.vsight.io. Your account name, username
+and password can be found in the PDF document with the access data. If you have been the
+role of a co-admin, please contact your administrator regarding your access data.
+IMPORTANT: The role of an administrator is not intended for the actual use of the platform as
+an expert or subscriber. Co-admins, on the other hand, can take over the role of an expert or
+subscriber (depending on the license purchased). Please contact your admin in this regard.
+If you want to use the Admin Panel in China, this is only possible via a VPN connection. How
+users can access the application in China is specified in chapter 16.
+INFOS:
+For more information on Vsight, please visit us on our homepage https://www.vsight.io/
+QUESTIONS?
+If you have any questions or comments, please contact us at info@vsight.io or use the
+feedback form in the platform.
+1. LOGIN & LOGOUT
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+6
+To login to the admin panel, please go to https://admin.vsight.io/login.
+Please use one of the following browsers to access this page:
+Mozilla Firefox, Google Chrome, Microsoft Edge Chromium 79+, or
+Safari.
+ Fig. 1: LOGIN
+Enter the name of your account u, as well as your admin-specific credentials in the form of
+username v and the related password . This information can be found in the PDF document
+with all your access data.
+If your account name should be saved for future logins, please select the "Remember account
+name" check box . Select your preferred language from the drop-down menu . The
+language can still be changed at any later timepoint in the admin panel. Finally, click on
+"LOGIN"  to access the admin panel. The function Single Sign-On (SSO) or the integration of
+your Azure Active Directory (AD)  for the user management, are available as add-ons. Please
+contact your admin, or your contact person at VSight. If you no longer have your access data
+at hand or if you forgot your password, please contact info@vsight.io.
+1
+2
+3
+4
+5 6
+7
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+7
+To log out of the admin panel, click on your profile icon in the upper right corner, and click
+“Logout” in the drop-down. After 10 minutes of inactivity in the admin panel, you will be
+automatically logged out for security reasons.
+ Fig. 2: LOGOUT
+2. MAIN MENU
+After you have logged in, the main menu will be displayed on the left column. In the following,
+all individual submenus will be described in greater detail.
+ Fig. 3: Main menu
+3. DASHBOARD
+3: DASHBOARD
+4: ROOMS
+5: USERS
+6: SESSIONS
+7: TICKETS
+8: STORAGE
+9: SETTINGS
+10: LICENSE
+11: WORKFLOW
+By clicking on the listed index terms, you can directly jump
+to the respective chapter:
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+8
+After logging in, the dashboard will appear on your screen and displays general information
+about your account.
+ Fig. 4: Dashboard
+In the first row you can see the number of created users u, of created rooms v, of all sessions
+carried out , as well as the total usage time  at a glance.
+The chart below shows all sessions of the last 30 days over time. Below, you can find the list
+with more information on your last sessions. When you scroll down, you will get a more
+detailed overview of all created rooms and of all created users with their respective assigned
+roles.
+4. ROOMS
+For a detailed outline of all rooms created in your account, please click on the "Rooms" button
+in the main menu.
+1 2 3 4
+5
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+9
+Fig. 5: List of all rooms with an integrated search function
+Each room can be labeled with an icon u, to simplify orientation and increase affiliation. Every
+room is listed with its room name and is marked with the status “active” or “passive”,
+depending on whether the room is currently being used for a session or not v. In addition, all
+users that were assigned to this room are listed . Via the three buttons on the right, you can
+view all settings and details of the respective room , edit the room  and deactivate the
+room.
+Once a room is deactivated, it is still available, yet the users can no longer see or use it. This
+allows you to control the availability of rooms, e.g., when certain rooms are not to be used for
+a certain period, but you do not want to permanently delete and recreate them.
+With the help of the integrated search bar, you can quickly and easily search for specific
+rooms, or for users that are assigned to specific rooms.
+4.1 Create a new room
+To create a new room, click the green button "New Room" in the upper right corner of the
+submenu “Rooms” (see Fig. 5).
+Thereupon, the following window will open with further configuration options:
+1 2 3 4 5 6
+7 8
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+10
+ Fig. 6: Setup a new room
+If desired, you can label the room with a specific icon or logo u, which can be uploaded via
+the “Choose file” field. Each room requires a unique room name v and a description .
+By ticking the check boxes of the following settings, you will activate that:
+•  all sessions in this room will automatically be recorded
+•  the consent of all users is required, before a recording can be started (all users will
+automatically be asked for permission)
+• *a direct peer-to-peer connection will be established, instead of using the VSight
+Remote server. Please note that recordings are not possible with this setup.
+• *the streaming and snapshot quality for this room is increased from HD to Full-HD.
+Please note that this leads to increased computing (battery life, processing power) and
+data capacity.
+• *this room is defined as an academy room (This is an add-on for up to 112 users per
+session (for more information see chapter 4.2).
+In a final step of the configuration, you may assign certain usersto this room by selecting them
+from the drop-down menu. Please note that the drop-down menu contains only users that
+are already linked to your account. The only requirement is that these users are already linked
+to your account. How users can be added to your account, will be addressed in Chapter 5.3.
+After you have made all the settings, click on SAVE to successfully complete the creation of
+this new room.
+6
+3
+4
+5
+7
+8
+1
+2
+9
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+11
+*Please note that peer-to-peer calls, Full HD quality and the academy function are
+add-on functions. Please contact your admin or your contact person at VSight.
+4.2 Create an academy room
+Academy rooms are an add-on feature that is not included in your license and needs to be
+purchased extra.
+In an academy room, up to 112 users can participate in a session at the same time. The main
+differences to the standard room are the number of users and the user management during a
+session. A host is appointed who "moderates" the session, manages permissions and guides
+the activities e.g., by switching participants on/off, pinning certain windows, etc.
+To define a new room as an academy room, you must select the "Training room" checkbox
+(see Fig. 6). Thereupon additional fields pop up to configure your training room:
+ Fig. 7: Setting up an academy room
+Since this is an add-on function, a special academy room license will be needed u. Please
+contact your admin or your personal contact at VSight. At least one user must be assigned to
+the classroom v. In addition, one of the assigned users must be appointed as the host .
+1
+2
+3
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+12
+4.3 Edit or delete a room
+ Fig. 8: Edit room settings
+By using the three buttons, already mentioned in Fig. 5 (,,), all current settings can be
+viewed u, edited and overwritten v, or the room itself can be deactivated to hide it from
+users .
+ Fig. 9: Deactivate or delete rooms
+In the edit mode, you will also find an alternative option to disable a specific room u, or to
+ultimately delete a room v.
+IMPORTANT: deleted rooms and the associated records cannot be recovered
+1 2 3
+1 2
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+13
+4.4 Auto-join room
+To make usage of VSight easier for users, you can assign them to a default room. This means
+that upon logging in or opening the app, user will be automatically redirected to their assigned
+room. User can use other functionalities once they leave the session.
+To assign users to their default room, go to admin.vsight.io and login with your admin
+credentials. Click on “Users” section on the left u. Select for which user you want to have a
+default room, click on edit button and under “Default Room” section select a room for your
+user .
+Fig. 10: Overview of default room function
+To use this feature, you should contact your account administrator.
+5. USERS
+5.1 Different roles of users
+ADMIN:
+Each account is assigned one admin. Only the administrator has access to the admin panel
+(unless he creates and gives access to so called co-admins) in order to manage the account.
+The administrator creates and configures both users and rooms, he grants all permissions and
+has control over all settings and the recordings, which are stored in the admin panel. There is
+no option to delete an administrator, not even in the admin panel. 
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+14
+CO-ADMIN:
+In case the administrator wants to entrust other users with the exclusive administrator rights,
+he can create co-admins. Co-admins have the same permissions and rights as administrators.
+The only difference between administrators and co-admins is that co-admins cannot delete
+the administrator, vice versa it is possible though. An unlimited number of co-admins can be
+created per account. Co-admins who use the VSight platform as a user, automatically take on
+the role of a subscriber. If the co-admin is supposed to take on the role of an expert, VSight
+can create this dual role. Please contact your contact person at VSight.
+EXPERTS:
+Experts are usually the users who guide the subscribers on site remotely. A session is only
+started as soon as an expert enters the room. In the classroom, this function is performed by
+the host, who has to actively start the session.
+SUBSCRIBERS:
+Subscribers are the users who receive the support and guidance of experts from afar, such as
+service technicians or end customers on site. Subscribers and experts have the same
+permissions and features. The only difference is that only experts can start a session. This is
+due to the VSight licensing model, where all subscribers can use the platform for free.
+5.2 View users
+Click on the "User" button in the main menu to get to the detailed view of your users. This
+page lists all users who are linked to your account. Each individual user is listed with his name,
+the username, the assigned rooms and the respective role. 
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+15
+ Fig. 11: List of all users with an integrated search function
+Via the integrated search bar, you can quickly and easily search for specific users either by
+their name u, by the room they are assigned to v, or by their assigned role .
+5.3 Create a new user
+To create a new user, click on the green "New User" button at the top right of the user menu
+(see Fig. 11). This will open the following window, where you can setup and configuring the
+new user.
+1 2 3 44
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+16
+ Fig. 12: Configure a new user in your account
+First, please define the role of the user u (see chapter 5.1). Usernames are required for the
+login and should therefore be simple and straightforward v.
+Each username can only be assigned once. The actual name of the user is required and will be
+displayed in the session . Optionally, you can also add the email address of the user . In
+case the email address is saved here on the platform, you can send e.g., meeting invitations
+directly without manually entering the email addresses. Experts, whose email address is
+saved, receive the session export per email (Add-on "Export function") without having to
+repeatedly enter their email addresses.
+Tick the following check boxes to authorize the user:
+•  to start/stop the video recording of a sessions
+•  to make calls. This also entitles the user to access the list of all users. Please select
+from the corresponding drop-down menu, whether the user shall be able to view all
+users, or only users assigned to the same room.
+•  to create a "guest access". The guest access allows users to ad-hoc invite guests to
+a session (by link or QR code, sent via Email, Whatsapp or SMS)
+1
+5
+6
+2 3 4
+7
+8
+9
+10
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+17
+•  obtain the required consent of all participants if he wants to record the session
+started by his call.
+Please also create a password for this user that fulfils the criteria listed on the right side. These
+criteria can be defined and edited by the admin, as is further described in chapter 9. You can
+already assign this user to existing rooms. However, this can still be done any time later, as
+was outlined in chapter 4.1 and visualized in Fig. 6. After you have specified all parameters,
+click "SAVE" to successfully complete the configuration of this new user.
+5.4 Import users
+If you want to import users from external, VSight offers you the option to do this via an excel
+sheet. With the help of a template excel sheet, where you fill in all the information, you can
+add an unlimited number of subscribers and co-admins and a defined number of experts
+depending on your license. To use this functionality, please click in the user menu on the green
+button "Import Users" (see Fig. 11 ).
+ Fig. 13: Import user from an excel sheet
+First, download our Excel template (Sample file u), fill in all the information regarding the new
+users. Thereafter, please upload the edited document v. By clicking “Import File”  all data
+will be extracted, and the users will automatically be created in your account.
+1
+2
+
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+18
+5.5 Edit user settings
+Just as described for rooms (see chapter 4.3), the settings of all users can be edited at any
+timepoint in the admin panel.
+Fig. 14: Edit user settings
+Use the three buttons located on the righthand side to view u, to edit and overwrite v, or to
+deactivate the respective user .
+5.5.1 Create a permanent QR code for a user
+By clicking on the yellow eye (see Fig. 14 u) you can view all settings and information of the
+respective user. Furthermore, when you scroll down, you will find the section to create a
+permanent QR Code for this user.
+1 2 3
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+19
+Fig. 15: Create a permanent QR codes for a user
+To create a QR Code for the first time, click on the “Create QR Code” button u. The
+automatically generated code can subsequently be downloaded as a JPEG image v that can
+be shared with the user. Upon scanning the code with a mobile device, the user will be directly
+logged in to his profile on the Vsight Remote Platform, without having to enter his credentials.
+This feature is especially helpful when using smart glasses. This QR code is permanent and
+remains valid until the password is being changed. In case a new QR code is required, it can
+easily be regenerated . In case the code is not required anymore, it can also be deleted .
+5.5.2 Change a user’s password
+In the editing mode described above (see Fig. 14 v) you can not only edit the user settings,
+but also change the password of the respective user. To do this, simply set a new password
+and re-enter it in the field below to confirm the new password (see Fig. 16  and ).
+Users are entitled to change their password on their own via the web application of the VSight
+Remote Platform, however this requires the correct current password. In case users forgot
+their password, the admin must create a new password, as was described here.
+5.5.3 Disable or delete users
+1
+2
+3
+4
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+20
+By clicking on the grey deactivation button (see Fig. 14 ) you can directly disable the
+respective user. Once disabled, the user has no access to the platform, but is not deleted and
+can be reactivated at any time.
+In case you want to delete the user completely, please enter the editing mode (see Fig. 14 v).
+ Fig. 16: Deactivate or delete user
+In the bottom line you will find both the option to disable u as well as the option to ultimately
+delete the user v.
+ATTENTION: deleted users and related information cannot be recovered
+1 2
+4
+3
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+21
+6. SESSIONS
+6.1 Show Session Report
+Click on the "SESSIONS" button in the main menu to go to the detailed view of all previous and
+ongoing sessions.
+ Fig. 17: List of all sessions with an integrated search function
+If only particular sessions are to be displayed, you can use the integrated search bar to filter
+sessions by date u, by rooms v or by users involved in the session . Once you have selected
+the desired categories, click "Apply Filters" , to display only the selection. In case you want
+to export the list of sessions, you can download the CSV (comma-separated value) file via the
+"Export" button .
+6.2 Sessions in personal meeting rooms
+If you identify sessions in your session report that took place in so-called personal meeting
+rooms, this means that this session was initiated by a call between users (see Fig. 18).
+5
+1 2 3
+4
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+22
+Fig. 18: Personal meeting rooms for calls between users
+Using the call function, users can call each other directly within the VSight Remote Platform
+and thus easily and quickly start a session. For this functionality, the system temporarily
+creates personal meeting rooms, which automatically disappear after the session is ended. In
+the session report that lists all sessions, these sessions are labeled with “Personal Meeting
+Room” as a room name. To enable your users to use this functionality, you must activate the
+check box “Permission to make calls” in the respective user configuration (see Fig. 12 ).
+Please note that the call function is only available for PRO and ULTIMATE licenses.
+6.3 View session details
+To view detailed information of a specific session, click on the respective session within the
+list of all sessions. This will open a window (see Fig. 19) with more details about the session
+u, the option to export all content of the session v, with access to all session recordings ,
+to all shared files  as well as all messages from the chat . Please see chapter 6.4 for more
+information on how to download session content and recording.
+Please note that session details are only available for PRO and ULTIMATE licenses.
+1
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+23
+ Fig. 19: View session details
+6.4 Download session content and recordings
+Experts are given the option to receive the content of the session by email, right after the
+session ended. This session export includes session comprises all chat messages, snapshots,
+shared files and the video recording. If the initial opportunity to receive the email was missed,
+or if re-sending is desired, you can initiate a new email with the session export here in the
+admin panel.
+To do this, please enter the email address of the recipient(s) in the designated field (see Fig.
+19 v). To enter several email addresses, please the Enter key after each address. All listed
+1
+5
+2
+3
+4
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+24
+recipients will receive an email with a download link for a ZIP file, comprising all shared files,
+snapshots and chat messages. If the session has been recorded, the email contains a second
+link to download the video. Both links will lose their validity after 30 days.
+Please note that the "Session Export" function is an add-on. Please contact your admin
+or your contact person at VSight.
+In case a session has been recorded, it will be listed in section  of Fig. 19 with additional
+details, as depicted in Fig. 20.
+Fig. 20: Replay, export or delete session recordings
+By clicking on the yellow play button u, a new window will open, where you can directly play
+the recording. If you want to download the recording, please click on the download icon v.
+This will open a separate window, where you again have the possibility to play the video. By
+subsequently right-clicking on the video, you will be offered various options to download the
+video, or to share in other ways. If you ultimately want to delete the recording, e.g., to free
+up storage space, please click on the red trash icon .
+Please note that sessions can only be recorded when holding an ULTIMATE license. For
+each ULTIMATE license, we provide you with unlimited storage space to archive your
+session recordings.
+7. TICKETS
+VSight Remote comes with its own ticket system. These tickets can be linked to sessions that
+contain all shared documents, PDFs, images and videos. This allows you for example to better
+1 2 3
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+25
+manage and track, or easily digitalize recurring processes. With the help of the tickets, you can
+structure and document your service interventions and thus increase your efficiency.
+7.1 View tickets
+Click on the "TICKETS" button in the main menu to go to the detailed view of all tickets created.
+ Fig. 21: List of all tickets with an integrated search function
+If only certain tickets are to be displayed, you can use the integrated search bar and filter
+according to rooms u, creation date v, the user who created the ticket , or according to the
+status of the ticket .
+7.2 Create a new ticket
+New tickets can be created both via the admin panel and also directly via the VSight Remote
+web application. The following description refers to the creation in the admin panel.
+Via the "New Ticket" button (see Fig. 21 ) you will be directed to a new window with several
+fields to add further information and configure the ticket.
+1 2
+5
+3 
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+26
+ Fig. 22: Create and configure a new ticket
+Define the type of ticket u. In the initial delivery state, only the ticket type “Service” is
+available. In case you require additional ticket types, such as complaint, maintenance, repair,
+etc., please get in touch with your contact person at Vsight. Next, you can link this session to
+a certain room v. If you want to link specific sessions to a ticket, please go to the respective
+session and attach the session to the ticket (see Fig. 19 u). Please set a title for the ticket 
+and a description to briefly outline the respective problem or topic . By choosing a status ,
+and the priority  you can further categorize the ticket. Specify a user who is responsible
+for the ticket . Define a follow-up date by which the next step shall be completed or by which
+the ticket shall be closed . Optionally, exemplify a potential problem-solving strategy or
+procedure of how to resolve the ticket . After you have made all settings, click on "CREATE"
+to successfully generate this ticket .
+1
+2
+3
+4
+5
+7
+6
+8
+9
+10
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+27
+Please note that the ticket function is only available with PRO and ULTIMATE licenses.
+However, upon request the ticket function can be activated/deactivated. Please
+contact your contact person at VSight.
+7.3 View ticket details
+To view detailed information about a ticket, please click on the respective ticket in the list.
+ Fig. 23: Ticket details
+This will open a window with all stored information u. In addition, you will find the list of all
+linked sessions v. When you click on one of the attached sessions v, you will be redirected
+to the session details, as previously described in chapters 6.3 described and displayed in Fig.
+19. In case you want to send the session export with all the contents of this session again via
+email, please click on the email icon and enter the respective email addresses. For more
+1
+2
+3 4
+5
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+28
+information regarding the session export please go to chapter 6.4. To send the entire overview
+of the ticket via email, please click on "SEND BY EMAIL" .
+7.4 Edit or delete a ticket
+To edit the information and settings of the tickets later on, please click on the turquoise “EDIT”
+button in the upper right corner of the detailed overview of the respective ticket (see Fig. 23).
+Please save your changes to complete the process.
+If you want to delete a ticket, you will find the "DELETE TICKET" button when scrolling down
+in the edit mode of the ticket.
+8. STORAGE
+In the main menu, click the "STORAGE" button to view your storage settings. ULTIMATE
+licenses come with unlimited storage to archive session video recordings.
+ Fig. 24: Storage capacity for session recordings
+Storage for all session exports, shared files, images, snapshots, etc. is provided by VSight as
+part of the “Session Export” add-on.
+The possibility to integrate your own cloud storage is an add-on and is not included in a
+common license. Please contact your personal contact person at VSight.
+9. SETTINGS
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+29
+Click on the "SETTINGS" button in the main menu to view your account settings. The following
+settings can be edited here:
+ Fig. 25: Account settings
+Enable automatic recording of all sessions in all rooms u. To change the automatic recording
+for individual rooms, please edit the settings of the respective room (see Fig. 6 ). Specify
+who will receive the weekly usage reports by email. This short usage report provides you with
+an overview and an evaluation of the weekly account usage v. Choose your preferred time
+2
+1
+3
+5
+6
+4
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+30
+zone . In case you want to enhance your user’s password security, you can set compulsory
+criteria. Please first activate the slider  and define the minimum length of a password. You
+can additionally activate the check boxes of criteria that have to be met by your users.
+Furthermore, enable two-factor authentication to render the access to the admin panel even
+more secure . In the lowest section you will find the list of the current hardware and
+software requirements for mobile devices, supported browsers and your network connection
+.
+Please save your settings to apply the changes.
+10. LICENSE
+Click the “LICENSE” button in the main menu to get to an overview of your VSight Remote
+license. For more information on the supported features per license type, please refer to
+chapter 17.
+If you have purchased a specific academy room package, this license will also be listed and will
+display both the total number of purchased hours and the number of hours already consumed.
+11. WORKFLOW
+This is a paid add-on functionality. Please contact your personal contact at VSight for further
+information.
+12. PROFILE
+To view your personal admin profile, please go to your account icon in the upper right corner
+and select "PROFILE" from the drop-down menu (see Fig. 2). All settings that you can view and
+edit here correspond to those of the users described in detail in chapters 5.3 and 5.4
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+31
+13. PORT SETTINGS
+To ensure that the VSight Remote platform can be used smoothly, the following ports should
+be open:
+- TCP port 443
+- UDP port 3478
+- UDP port 1025-65535 (optional for better connectivity)
+Add the following domains to the whitelist:
+*.app.vsight.io
+*.admin.vsight.io
+*.tokbox.com
+*.opentok.com
+Basically, our servers change in real time, so that the IP addresses can change dynamically
+depending on the data traffic. By using services such as Google Firebase, it is also not possible
+for us to name static IP addresses.
+ Fig. 26: Exemplary precall test results
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+32
+To test the configuration of the port settings, you need to login to the Vsight Remote platform
+(https://app.vsight.io/login) with your user credentials. Select and start the precall test, which
+is listed in the main menu. The results will automatically be displayed within a short time.
+14. NETWORK REQUIREMENTS
+For a smooth session of high quality, we recommend a download and upload speed of 1
+Mbit/s. The minimum requirement to hold a session, is a connection speed of around 350
+Kbit/s.
+14.1 Audio and video streams
+For an excellent or acceptable session quality, the following conditions must be met:
+QUALITY VIDEO RESOLUTION @FPS VIDEO KBPS PACKET LOSS
+Excellent 1280x720 @30 > 1000 < 0.5%
+Excellent 640x480 @30 > 600 < 0.5%
+Excellent 352x288 @30 > 300 < 0.5%
+Excellent 320x240 @30 > 300 < 0.5%
+Acceptable 1280x720 @30 > 350 < 3%
+Acceptable 640x480 @30 > 250 < 3%
+Acceptable 352x288 @30 > 150 < 3%
+Acceptable 320x240 @30 > 150 < 3%
+Please note that a simultaneous use of camera/microphone by another active
+application can affect the results (e.g., running a precall test during a Teams meeting).
+14.2 Audio-only stream
+For excellent or acceptable audio quality, the following conditions must be met:
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+33
+14.3 Data consumption
+According to our experience, a session with about 2-4 participants and an average use of
+various functions of the platform requires a data volume of about 700 - 1,000 MB per hour.
+15. SUPPORTED BROWSERS AND DEVICES
+Browser support for the VSight remote web application
+PC/MAC ANDROID IOS
+Google Chrome
+Mozilla Firefox
+Safari (12 or higher)
+Microsoft Edge (79 or later)
+Application support:
+PC/MAC
+ANDROID / SMART
+GLASSES IOS
+Web app https:/app.vsight.io
+Mobile App (App/Play Store)
+Direct download link for smart glasses:
+https://vsight.io/docs/app/vsight-remote-release.apk
+QUALITY AUDIO KBPS PACKET LOSS
+Excellent > 30 < 0.5%
+Acceptable > 25 < 5%
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+34
+16. USAGE OF THE PLATFORM IN CHINA
+In order to use VSight Remote in China, users who are using the platform in China have to
+activate the checkbox "I’m logging in from China" (see Fig. 1 ). All users who are not in China
+can use the platform as usual, even if other participants of the session log in from China. The
+admin panel can only be accessed via a VPN connection in China.
+17. SUPPORTED FEATURES PER LICENCE TYPE
+
+All subscribers for free
+Guest access via link/QR (by mail or Whatsapp)
+Number of users per session 2 3 12
+File sharing (100 MB per single file)
+Start AR+ mode
+Share 3D models
+Insert 3D models in AR+ mode
+Select/Move/Scale 3D Models
+Use 3D (animated) annotations
+Measurement in AR+ mode
+View list of all users
+Call functionality between users
+Schedule meetings in advance via a link
+Session report
+Ticket system
+Recording & archiving sessions OPTIONAL OPTIONAL
+Use of smart glasses OPTIONAL OPTIONA
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+35
+The following features can be added to your license as an add-on function:
+Floating licenses
+Session export
+Send guest access via SMS
+Whitelabel
+Academy room (12 trainers + 100 participants)
+CRM / Ticket system integration (API)
+Azure Active Directory (AD) integration / SSO
+AWS physical storage integration (API)
+Workflow
+Additional storage capacity
+Please note that add-on features are not included in the licence. If you would like to add these
+features to your license, please contact info@vsight.io or get in touch with your personal
+contact at VSight.
+Copyright © 2022 VSight UAB
+All rights reserved
