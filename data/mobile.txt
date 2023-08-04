@@ -1,0 +1,1128 @@
+3.2.14
+4.8.4
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+2
+TABLE OF CONTENTS
+Preface ....................................................................................................................................................5
+1. App download .................................................................................................................................6
+2. Login & Logout.................................................................................................................................6
+2.1 Directly connect to your expert via the ID code.........................................................................7
+2.2 Logout.........................................................................................................................................8
+3. Precall Test ......................................................................................................................................8
+4. Rooms..............................................................................................................................................9
+4.1 Auto-join room.........................................................................................................................10
+5. Meetings........................................................................................................................................10
+6. Users..............................................................................................................................................11
+6.1 Different roles of users.............................................................................................................11
+6.2 Call function between users.....................................................................................................12
+7. Session...........................................................................................................................................13
+10.2 Session interface ......................................................................................................................13
+11.2 Invite additional participants via a guest access ......................................................................15
+12.2 Collaboration in AR+ mode .......................................................................................................15
+7.12.1 Manipulation of 3D annotations or 3D objects ................................................................18
+13.2 Chat function............................................................................................................................19
+14.2 File collaboration......................................................................................................................20
+7.14.1 COLLABORATION ON PDF DOCUMENTS.....................................................................................20
+7.14.2 Collaboration on image files.............................................................................................21
+8. Add-on function Academy Room ..................................................................................................22
+9. App download ...............................................................................................................................24
+10. Login & Logout...............................................................................................................................24
+10.1 Login to VSight using the Field ID Code....................................................................................25
+10.2 Logout.......................................................................................................................................26
+11. Precall Test ....................................................................................................................................27
+12. Rooms............................................................................................................................................28
+12.1 Auto-join room.........................................................................................................................28
+13. Meetings........................................................................................................................................29
+14. Users..............................................................................................................................................29
+14.1 Different roles of users.............................................................................................................29
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+3
+14.2 Call function between users.....................................................................................................30
+15. Session...........................................................................................................................................31
+15.1 Session interface ......................................................................................................................31
+15.2 Invite additional participants via a guest access ......................................................................33
+15.2 Collaboration in AR+ mode .......................................................................................................34
+15.3 Chat function............................................................................................................................36
+15.4 Collaboration on files ...............................................................................................................37
+15.4.1 Collaboration on PDF files.................................................................................................37
+15.4.2 Collaboration on image files.............................................................................................37
+16. Add-on function Academy Room ..................................................................................................38
+17. Network requirements..................................................................................................................40
+17.1 Audio and video streams..........................................................................................................40
+17.2 Audio-only stream....................................................................................................................41
+17.3 Data consumption ....................................................................................................................41
+18. Supported browsers and devices ..................................................................................................42
+19. Supported features per device......................................................................................................42
+20. Useage of the platform in China....................................................................................................44
+21. Supported features per licence type .............................................................................................44
+TABLE OF FIGURES
+iOS Mobile devices
+Fig. 1: Login .............................................................................................................................................6
+Fig. 2: Login to VSight and connect to the expert via your ID code.........................................................7
+Fig. 3: Logout...........................................................................................................................................8
+Fig. 4: Precall Test....................................................................................................................................9
+Fig. 5: List of all rooms...........................................................................................................................10
+Fig. 6: Call function between users .......................................................................................................12
+Fig. 7: Session interface.........................................................................................................................13
+Fig. 8: Create a guest access..................................................................................................................15
+Fig. 9: Surface scanning for AR+.............................................................................................................16
+Fig. 10: Features in AR+ mode ...............................................................................................................16
+Fig. 11: Measure distances in AR+ .........................................................................................................17
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+4
+Fig. 12: Manipulation of 3D annotations and 3D objects......................................................................19
+Fig. 13: Chat...........................................................................................................................................19
+Fig. 14: Collaboration on PDF documents.............................................................................................20
+Fig. 15: Upload image files....................................................................................................................21
+Fig. 16: Collaboration on image files.....................................................................................................22
+Fig. 17: Academy room..........................................................................................................................23
+Android Mobile devices
+Fig. 18: Login .........................................................................................................................................25
+Fig. 19: Login to VSight and connect to the expert via your ID code.....................................................26
+Fig. 20: Logout.......................................................................................................................................26
+Fig. 21: Precall Test................................................................................................................................27
+Fig. 22: List of all rooms.........................................................................................................................28
+Fig. 23: Call function between users.....................................................................................................31
+Fig. 24: Session interface.......................................................................................................................32
+Fig. 25: Surface scanning for AR+...........................................................................................................34
+Fig. 26: Features in AR+
+..........................................................................................................................35
+Fig. 27: Chat...........................................................................................................................................36
+Fig. 28: Collaboration on PDF documents.............................................................................................37
+Fig. 29: Collaboration on images...........................................................................................................38
+Fig. 30: Academy room..........................................................................................................................39
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+5
+PREFACE
+VSight Remote is a platform that connects experts with the point of service to solve problems
+remotely. Via an adaptive audio and video stream, the expert can participate on the live events
+on site. Users can place annotations on the live stream, on frozen images, or on shared files.
+Furthermore, by using augmented reality (AR) tools and integrating 3D objects, expert
+knowledge can be made available to the service technician on site. Anytime. Anywhere.
+A welcome side effect is that needless travel can be avoided, travel restrictions can be
+circumvented, and various problems can be solved faster, more efficiently and with less cost
+thanks to VSight.
+This manual explains all the key features of the mobile VSight Remote app, so you can easily
+find your way around and take full advantage of the application. In addition, you will find
+information on supported devices and file types, data consumption and the network
+requirements for a smooth use of the VSight Remote Platform.
+For mobile use of the VSight Remote Platform, please download the VSight Remote App from
+your App/Play Store. This app can be used with all common video glasses.
+LOGIN:
+You will receive your access data in the form of account name, username and password from
+your Administrator.
+INFOS:
+For more information on VSight, please visit us on our homepage https://www.vsight.io/
+For updates or further information regarding AR+
+-supported devices, please refer to
+https://developers.google.com/ar/discover/supported-devices
+QUESTIONS?
+If you have any questions or comments, please contact us at info@vsight.io or use the
+feedback form in the platform.
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+6
+iOS Mobile devices
+ VSight Remote Version 3.2.14
+1. APP DOWNLOAD
+To install the app on your iOS mobile device, please go to your App Store and search for VSight
+Remote. Click on “GET” to download and install the app on your device.
+Requirements for iOS devices:
+• iOS 13 or later
+• iPhone 8 or later
+• iPad Pro 2017 or later
+• To use AR+
+, your device must support ARkit. Devices that support ARkit can be found
+at the following link:
+ARkit-supported devices
+2. LOGIN & LOGOUT
+ Fig. 1: Login
+Click on the VSight app icon on your iOS device
+to open the app.
+Enter the name of your account u, as well as
+your personal access data in the form of
+username v and the associated password .
+You can get this information from your admin.
+If you no longer have your access data at hand
+or have forgotten your password, please
+contact your admin to create a new password
+for you. In case you are located in China, please
+1
+2
+3
+8
+4
+5
+6
+7
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+7
+check the box “I’m logging in from China” 
+before using the application.
+The 6-digit ID  allows mobile users without credentials to swiftly connect to an expert in a
+VSight Remote session. For more details see chapter 2.1. In case you received a QR code for
+your login, please click on the respective field . This opens a scanner to read your QR code.
+After a successful scan process, you will be automatically logged into the app. As an add-on,
+VSight offers the single sign-on (SSO) function  or the integration of your Azure Active
+Directory (AD). Please contact your administrator in this regard. Finally, click on 'LOGIN'  to
+access the app.
+Please note that you cannot be logged in to multiple devices at the same time.
+2.1 Directly connect to your expert via the ID code
+Guest users or end customers without VSight Remote user credentials can connect with an
+expert via the unique ID code displayed on the login interface.
+Fig. 2: Login to VSight and connect to the expert via your ID code
+Please communicate this 6-digit code u, which will be regenerated every 5 minutes, to the
+expert in the back office. The expert will then start a session and enter the ID code from the 
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+8
+field user in the designated field of the session section v. Once the expert hits the “Connect”
+button , the field user will directly be called in to the VSight Remote session with the expert.
+2.2 Logout
+ Fig. 3: Logout
+To log out of the app, please open your profile u and select “Logout” from the drop-down
+menu v. To just close the application without logging out, pull up the white bar at the bottom
+of the screen, as is common practice in iOS. This will take you back to your home screen.
+Please note that closing the app will not automatically log you out. Thus, you do not
+have to log in again when you open the app the next time. Instead, you will directly
+end up in the app.
+In your profile you also find the current version number of your app , the option to carry out
+a precall test  (see chapter 3) and the feedback form . You can use this form to report
+problems you encounter during a session or send us your suggestions and comments.
+Someone from the VSight development team will contact you as soon as possible. Your
+feedback helps us to continuously improve the platform.
+3. PRECALL TEST
+Before you join a session for the first time, we recommend carrying out a precall test. Thereby,
+the setup and quality of your connection are being analyzed, as well as the hardware and
+1
+1
+2
+2
+3
+3
+4
+4
+5
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+9
+software settings required. To perform the test, please click on “Precall Test” in your profile
+section (see Fig. 3 ) and subsequently select "Run Precall Test".
+ Fig. 4: Precall Test
+Thereafter the test is carried out automatically and the results will be displayed within a short
+time u. In case you would like to report a specific problem, you encountered during a session,
+it is advisable to carry out a precall test and forward the results to us. A note in the feedback
+form that you have successfully completed the test also helps us with an initial error analysis.
+Please see chapter 17 for more information on network requirements.
+4. ROOMS
+Besides calls and scheduled meetings, permanent rooms are a way to start VSight Remote
+Sessions. For example, with longer commissioning projects, you might want to hold a session
+every day without having to schedule a meeting with the users every time. Admins or coadmins can grant access and assign users to individual rooms.
+As soon as you have logged in to the VSight Remote app, you will immediately see the
+overview of all rooms to which you have access.
+1
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+10
+ Fig. 5: List of all rooms
+By tapping on one of the rooms, you directly enter the room and thus join the session. For
+further information and explanations on sessions, please refer to chapter 7.
+Please note that only your admin and co-admins are entitled to created or delete
+rooms and to grant access to individual users.
+4.1 Auto-join room
+To make usage of VSight easier for users, you can assign them to a default room. This means
+that upon logging in or opening the app, user will be automatically redirected to their assigned
+room. User can use other functionalities once they leave the session.
+Please note that only your admin and co-admins are entitled assign rooms to
+individual users. To use this feature, you should contact your account administrator.
+5. MEETINGS
+Meetings are particularly suitable for planning sessions with date and time in the future and
+inviting users to them. The users, in turn, can save the calendar invitation, are reminded of
+the session beforehand and can join simply via a link. A simple and pleasant way of use,
+especially for external users outside your company. VSight customers appreciate this function,
+e.g., for planned maintenance or for sessions to be carried out later that do not have to take
+place urgently.
+1
+1
+2
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+11
+If you have received an invitation to a VSight Remote Meeting by email, you will be redirected
+directly to the app upon clicking on the link. All you have to do is enter your name before you
+can access the session directly via the "JOIN" button.
+You can currently schedule meetings through the VSight Web application
+(https://app.vsight.io) if you have been authorized to do so by your admin/co-admin. Further
+information and explanations of the session can be found in chapter 7.
+6. USERS
+6.1 Different roles of users
+ADMIN:
+Each account is assigned one admin. Only the administrator and so-called co-admins have
+access to the admin panel where they manage the account. The administrator creates and
+configures both users and rooms, he grants all permissions and has control over all settings
+and the recordings, which are stored in the admin panel. There is no option to delete an
+administrator, not even in the admin panel.
+CO-ADMIN:
+In case the administrator wants to entrust other users with the exclusive administrator rights,
+he can create co-admins. Co-admins have the same permissions and rights as administrators.
+The only difference between administrators and co-admins is that co-admins cannot delete
+the administrator, vice versa it is possible though. An unlimited number of co-admins can be
+created per account. Co-admins who use the VSight platform as a user, automatically take on
+the role of a subscriber. If the co-admin is supposed to take on the role of an expert, VSight
+can create this dual role. Please contact your contact person at VSight.
+EXPERTS:
+Experts are usually the users who guide the subscribers on site remotely. A session is only
+started as soon as an expert enters the room. In the academy room, this function is performed
+by the appointed host, who needs to actively start the session.
+SUBSCRIBERS:
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+12
+Subscribers are the users who receive the support and guidance of experts from afar, such as
+service technicians or end customers on site. Subscribers and experts have the same
+permissions and features. The only difference is that only experts can start a session. This is
+due to the VSight licensing model, where all subscribers can use the platform for free.
+6.2 Call function between users
+In case your admin has granted you permission, you will find all users created in your account
+in the user section. The call function allows you to connect directly with selected users.
+Initiating a call is another way to start a Vsight Remote. This function is particularly used by
+our customers internally. For example, you can quickly contact the expert in the “back office”
+or call him back again after you have completed certain steps without the need to schedule
+another meeting. The constant planning of meetings or arranging the time when to meet in
+the room is no longer necessary - you just call each other. For the other user to receive calls,
+he must be logged in to the app or the web interface. To receive calls, you don't necessarily
+have to have the app actively open, however, you must at least be logged in to the app.
+ Fig. 6: Call function between users
+To start a call, please go to the "Users" section u. You can now scroll through the list and
+select the desired user(s) by ticking the checkbox of the respective user v. The call is set up
+as soon as you click "Call selected users" . Once your call is accepted, a VSight Remote
+session will be started in your so-called personal meeting room.
+Please note that the call function is only available for PRO and ULTIMATE licenses, or
+can be restricted by your admin.
+1
+2
+2
+3
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+13
+7. SESSION
+VSight Remote offers several ways to start a session. Joining a room is probably the most
+common one. In case you want to schedule a session in advance, you can schedule a meeting
+in the web interface of the VSight Remote platform (https://app.vsight.io). To start a session
+spontaneously, you can call other users of your account and instantly initiate a session (see
+chapter 6.2). In addition, external users can be added to a session via a guest access in the
+form of a link or a QR. Due to the VSight licensing model, at least one expert must be present
+to start a session.
+10.2 Session interface
+Whether you're joining a room, attending a meeting, or accepting a call, you will always end
+up in a VSight Remote Session.
+ Fig. 7: Session interface
+u Arrangement of the streams
+In the regular live stream mode, the video stream of your camera appears in the center of
+your screen and the streams of the other participants are listed on the left. With the help of
+the white arrows between the streams, you can switch the windows.
+v Mute yourself
+Paul Profi
+2 3 4 5 10 6 7 8
+9
+9
+1
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+14
+Use the microphone icon to mute or unmute your microphone.
+ Switch camera
+By clicking on the rotatable photo camera icon, you can switch between the front and back
+camera of your device.
+ Flash
+If your device has a flash, you can activate it here to increase illumination.
+ Zoom
+Control the zoom of your mobile device’s camera
+ AR+ Mode
+A click on the AR+ icon, initiates the Augmented Reality mode. The software scans and
+recognizes surfaces in the field of view of the mobile device to allow for the placement of 3D
+annotations in the live stream. For more detailed information on features and the
+collaboration in AR+ mode, please refer to chapter 12.2.
+ Snapshot
+By clicking on the camera icon, you take a high-resolution picture with the camera of your
+device. This snapshot is then displayed in the chat history (see chapter 13.2) and is available
+for collaboration. The snapshot functionality can be particularly useful for collaboration under
+poor network connection.
+ Chat
+The Chat window allows you to send text messages, as well as view the transcript of the
+session. For more information see chapter 13.2.
+ Add participants
+A click on this icon automatically creates a guest access link and a QR code. You can share the
+credentials via various means. For further details see chapter 11.2.
+ Leave the session
+To exit the session, tap this button. Special case: If a session has been started by a call, the
+calling user can choose when leaving the session whether he wants to end the session for
+everyone, or whether the other participants can continue the session without him. 
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+15
+Please note that users of the web application can remotely control your camera's flash
+and zoom, as well as take images with your camera via the snapshot function.
+Please note that a session will last until the last expert leaves the session. Meeting links
+and guest access credentials remain valid until all users have left the session and the
+session ended.
+11.2 Invite additional participants via a guest access
+If you want to add guests or additional participants to the session at short notice, you can
+create a so-called guest access in no time during the session.
+ Fig. 8: Create a guest access
+By clicking on the “add participant”-symbol in the upper right corner (see Fig. 7 ), a QR code
+u and an access link v are created immediately. To share these credentials with your guests,
+you can either copy the link to the clipboard  and distribute it or tap on "Share"  and select
+via which channel you want to forward the credentials.
+12.2 Collaboration in AR+ mode
+The AR+ mode allows you to place annotations in the live stream of the mobile user that stay
+in place despite movement in the room or change of perspective. For this function to work as
+precisely as possible, you have to move the camera of your mobile device to properly scan the
+1
+1
+2
+2
+3
+3
+4
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+16
+entire surface, where annotations are to be placed. The scanning process is successful once a
+virtual grid appears.
+ Fig. 9: Surface scanning for AR+
+To start the scanning process, enter the AR+ mode (see Fig. 7 ) and follow the instructions
+on your screen displayed in Fig. 9. The required movement is similar to trying to see the
+hologram on a bank note.
+As soon as the virtual blue grid appears on your screen, 3D annotations can be placed.
+Please make sure to scan the entire surface, where annotations are to be placed (e.g.,
+an entire machine), upfront, so that it is fully covered with the virtual grid. If you scan
+and annotate part by part, annotations may be slightly displaced. Detailed scanning
+thus increases the accuracy.
+ Fig. 10: Features in AR+ mode
+You can annotate with 2D freehand drawings v in different colors and stroke width u. An
+additional feature available exclusively in AR+ mode is the placement of straight  or rotating
+1 2 3 5 6 7 8 9
+10
+4
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+17
+ 3D arrows. The direction of the arrow is defined via the respective drop-down menu. The
+arrow is placed upon a click on the designated position on the grid. Individual 3D annotations
+can still be moved, scaled, or deleted later on using the scale icon . For more details, please
+refer to chapter 7.12.1. This manipulation can be blocked by activating the lock symbol . To
+undo or repeat the latest steps, please use the arrow keys on the right edge of the screen .
+To delete all annotations at once, click on the trash icon . You can take a snapshot of the
+camera view including all annotations . The flash is still available in AR+ mode . The speaker
+icon  allows you to mute and thus control the incoming audio streams. The microphone icon
+ allows you to mute yourself and thus control the transmission of your audio stream.
+By using the ruler , you can measure distances in the live stream.
+ Fig. 11: Measure distances in AR+
+Once you selected the ruler u, define the start and end point by simply tapping on the screen
+v. The software automatically calculates the distance between the points and displays them
+either in the unit cm or inch . With every further click the chain is extended. To measure a
+separate distance, tap the green “+” icon and define a new start and end point . To close the
+AR+ collaboration, click on the red “X” in the upper right corner.
+In the mobile app, users in AR+ mode also have the function to measure distances. By simply
+placing two points, the software automatically calculates the distance between them and
+displays them either in cm or inch.
+4
+1
+3 2
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+18
+If you want to save the view with the annotations fixed in the live stream, you can take a
+snapshot. To exit AR+ mode, please click on the red cross .
+Please note that in addition to 3D-Annotations, user of the web interface can upload
+3D objects into the live stream. These can subsequently be edited, moved or scaled by
+everyone, just like 3D annotations.
+Please note that you can only use the AR+ mode if your device supports ARkit. The
+supported devices are listed here: ARkit-supported devices
+7.12.1 Manipulation of 3D annotations or 3D objects
+In case you want to move, scale, or delete individual 3D annotations or 3D objects in AR+
+mode, please use the scale button (see Fig. 10 ). However, this function is only available if
+the lock symbol (Fig. 10 ) is not activated.
+Click on individual annotations or objects to select them and freely move them around or scale
+them using the zoom buttons u. 3D objects can also be rotated with the help of finger
+gestures. To remove a specific annotation, select it and click on “DELETE” v. The “x”  takes
+you back to the regular AR+ mode. As soon as you click on the red “X” in the upper right corner,
+you will exit the entire AR+ mode. 
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+19
+ Fig. 12: Manipulation of 3D annotations and 3D objects
+13.2 Chat function
+The chat serves primarily for non-verbal communication. However, it can also be useful for
+taking notes and following the transcript of the session, as all activities and shared documents
+are listed there.
+ Fig. 13: Chat
+To send chat messages, please enter the text in the designated field u. Upon clicking on
+“Send” your message will be sent and will then appear in the chat history visible to all users
+v. You also have the possibility to upload image files to the chat  and share them with other
+users or edit them together. For more information on uploading image files to the session see
+chapter 7.14.2.
+100%
+1 2 3
+1 3 2
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+20
+14.2 File collaboration
+In addition to communicate with multiple users via audio/video stream, VSight Remote offers
+the possibility to integrate files into a session and edit them together. To start a file
+collaboration, tap on the blue “collaborate” button on the corresponding file listed in the chat
+history (see Fig. 13)
+7.14.1 COLLABORATION ON PDF DOCUMENTS
+PDF documents can be uploaded into the session by users of the web application yet can be
+edited by all users. Once the collaboration was initiated, the document will open in a separate
+window displayed to all users in the main screen.
+ Fig. 14: Collaboration on PDF documents
+The arrow keys in the top row undo or redo the last annotations u. The reset symbol v allows
+you to delete all annotations at once and reset the file to its original state. To zoom in or out,
+please use the magnifying glass . The arrow keys at the top center of the screen are available
+for scrolling individual pages and the arrow keys at the right edge of the screen  for
+navigation in the current view. Both the zoom and the navigation are reflected on the view of
+all users. The annotation menu can be found at the bottom left . First, you can select the
+color  and stroke  width of your annotations. The pen icon represents the freehand
+drawing function . A click on the T button  opens an empty text field. To move the text
+box, tap on the dark grey part of the text field. To place the text in the document, tap on the
+1
+4
+2
+3
+5 6 7 8 9 10
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+21
+check mark on the right side of the text field. The cube icon  offers you squares, circles or
+arrows for easy annotation. These appear with a blue dot via which you can scale their shape.
+To move the shape, select it and reposition it to the desired location. Similar to the text field,
+the shape is placed with a click on the check mark. All annotations remain in place, even as
+you navigate the document or zoom in or out of the view. To close the collaboration, tap on
+the red “x” in the upper right corner.
+Please note that freehand drawings are synchronized with all users live, whereas
+symbols and text annotations are only displayed to all once you clicked the check mark.
+Please note that already placed annotations can no longer be moved and can only be
+removed via the undo arrow key or via the reset button.
+Please note that only users of the web application can save and download the edited
+part of the document in the form of a .JPEG file by taking a snapshot.
+7.14.2 Collaboration on image files
+Collaboration on image filesis possible both with snapshots that were taken during the session
+(see Fig. 7 ) and preexisting images.
+ Fig. 15: Upload image files
+1
+2 3
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+22
+If you want to upload image files from your device memory, please use the staple icon in the
+chat window u. The pop-up window provides you with the option to take a snapshot v, or to
+upload an image from your library .
+To open an image file for collaboration, please go to the chat and tap on the blue “collaborate”
+field of the respective file (see Fig. 13).
+ Fig. 16: Collaboration on image files
+When collaborating on an image file, the annotation menu is even extended.
+In addition to the tool kit described in 7.14.1 you are provided with a live pointer u, as well as
+with the annotation manipulation tool v, described in 7.12.1. A dropdown menu with various
+warning symbols  enables you to swiftly place unmistakable warnings. Scaling and
+placement work as for the shapes, described in 7.14.1  above. To close the collaboration,
+press the red “X” on the upper right corner.
+Please note that all users can make annotations, but the edited version can only be
+saved by web app users.
+8. ADD-ON FUNCTION ACADEMY ROOM
+In an academy room, you can conduct sessions with up to 112 participants, e.g., for training
+purposes on a larger scale. There are 3 different roles in an academy room:
+1 2 3
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+23
+HOST: (1 User)
+... is appointed by the admin and has the permission to start and manage the session. He
+controls or moderates the action by allowing participants, for instance when questions arise
+(hand signal), to share their audio and video stream.
+PUBLISHER: (up to 12 users)
+... are the participants who have been authorized by the host to share their audio and video
+streams during the session.
+ADDITIONAL PARTICIPANTS: (up to 100 users)
+... are the participants who join and follow the session but are not per se allowed to share
+their audio/videostream.
+A session in the academy room must be started by the host. At the beginning, the host can
+allow certain participants to share their audio/video stream during the session, thus
+appointing them as publishers. This always requires the consent of the publishers. A maximum
+of 12 audio/video streams can be published simultaneously. The roles of the publishers can
+change during a session. All other participants can follow the session with their
+microphone/camera deactivated.
+ Fig. 17: Academy room
+The host can use the pin needle u to pin a specific stream in the main window. The fixed
+stream always appears at the top of your screen, and you can scroll down to see the streams
+of other publishers. The name of the publisher is displayed on the left side of each stream v.
+You can control the incoming audio and video streams of individual publishers via the
+4
+1
+2 6 3
+5
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+24
+respective speaker and camera icons . In case you want to ask a question, please raise your
+hand . The host gets notified and he can activate your audio/video stream and grant you
+publisher rights, so that you can publicly ask the question. However, this requires your
+consent, which you can give in the pop-up window. To withdraw your request, take down your
+hand with another click on the hand icon. The chat function  is still available.
+Please note that the academy room license is an add-on that is not included in a regular
+license. Please contact your admin or get in touch with us via info@vsight.io.
+Android Mobile devices
+ VSight Remote Version 4.8.4
+9. APP DOWNLOAD
+To install the app on your Android mobile device, please go to your Play Store and search for
+VSight Remote. Click on “INSTALL” to download and install the app on your device.
+Requirements for Android devices:
+• Android 5.0, or later
+• 1.5 GB RAM, or higher
+• Maximum Core speed 1.5 GHz, or higher
+• To use AR+
+, your device must support ARCore. Devices that support ARCore can be
+found at the following link: ARCore supported devices
+10. LOGIN & LOGOUT
+ 
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+25
+ Fig. 18: Login
+Click on the VSight app icon on your
+Android device to open the app. Enter the
+name of your account u, as well as your
+personal access data in the form of
+username v and the associated password
+. You can get this information from your
+admin. If you no longer have your access
+data at hand or have forgotten your
+password, please contact your admin to
+create a new password for you. In case you
+are located in China, please check the box
+"I'm logging in from China"  before using
+the application (see chapter 20).
+The 6-digit ID  allows mobile users without credentials to swiftly connect to an expert in a
+VSight Remote session. For more details see chapter 10.1. In case you received a QR code for
+your login, please click on the respective field . This opens a scanner to read your QR code.
+After a successful scan process, you will be automatically logged into the app. As an add-on,
+VSight offers the single sign-on (SSO) function  or the integration of your Azure Active
+Directory (AD). Please contact your admin in this regard. Finally, click on 'LOGIN'  to access
+the app.
+Please note that you cannot be logged in to multiple devices at the same time.
+10.1 Login to VSight using the Field ID Code
+Guest users or end customers without VSight Remote user credentials can connect with an
+expert via the unique ID code displayed on the login interface.
+1
+2
+3
+8
+4
+5
+6
+7
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+26
+ Fig. 19: Login to VSight and connect to the expert via your ID code
+Please communicate this 6-digit code u, which will be regenerated every 5 minutes, to the
+expert in the back office. The expert will then start a session and enter the ID code from the
+field user in the designated field of the session section v. Once the expert hits the “Connect”
+button , the field user will directly be called in to the VSight Remote session with the expert.
+10.2 Logout
+ Fig. 20: Logout
+1
+2
+3
+4
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+27
+To log out of the app open your profile u and select “Logout” v from the drop-down menu.
+To just close the application without logging out, press the home button, as is common
+practice in Android. Either way will get you back to your home screen.
+Please note that simply closing the app will not automatically log you out. Thus, you do
+not have to log in again when you open the app the next time. Instead, you will directly
+end up in the app.
+In your profile you also find the option to carry out a precall test  and the current version
+number of your app .
+11. PRECALL TEST
+Before you join a session for the first time, we recommend carrying out a precall test. Thereby,
+the setup and quality of your connection are being analyzed, as well as the hardware and
+software settings required. To perform the test, please click on “Precall Test” in your profile
+section (see Fig. 20 ) and subsequently select "Run Precall Test".
+ Fig. 21: Precall Test
+Thereafter the test is carried out automatically and the results will be displayed within a short
+time u.
+In case you would like to report a specific problem, you encountered during a session, it is
+advisable to carry out a precall test and share the results with us. Please see chapter 17 for
+more information on network requirements.
+1
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+28
+12. ROOMS
+Besides calls and scheduled meetings, permanent rooms are a way to start VSight Remote
+Sessions. For example, with longer commissioning projects, you might want to hold a session
+every day without having to schedule a meeting with the users every time. Admins or coadmins can grant access and assign users to individual rooms.
+As soon as you have logged in to the VSight Remote app, you will immediately see the
+overview of all rooms to which you have access.
+ Fig. 22: List of all rooms
+By tapping on one of the rooms, you directly enter the room and thus join the session. For
+further information and explanations on sessions, please refer to chapter 15.
+Please note that only your admin and co-admins are entitled to created or delete
+rooms and to grant access to individual users.
+12.1 Auto-join room
+To make usage of VSight easier for users, you can assign them to a default room. This means
+that upon logging in or opening the app, user will be automatically redirected to their assigned
+room. User can use other functionalities once they leave the session.
+1
+2
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+29
+Please note that only your admin and co-admins are entitled assign rooms to
+individual users. To use this feature, you should contact your account administrator.
+13. MEETINGS
+Meetings are particularly suitable for planning sessions with date and time in the future and
+inviting users to them. The users, in turn, can save the calendar invitation, are reminded of
+the session beforehand and can join simply via a link. A simple and pleasant way of use,
+especially for external users outside your company. VSight customers appreciate this function,
+e.g., for planned maintenance or for sessions to be carried out later that do not have to take
+place urgently.
+If you have received an invitation to a VSight Remote Meeting by email, you will be redirected
+directly to the app upon clicking on the link. All you have to do is enter your name before you
+can access the session directly via the "JOIN" button.
+You can currently schedule meetings through the VSight Web application
+(https://app.vsight.io) if you have been authorized to do so by your admin/co-admin. Further
+information and explanations of the session can be found in chapter 15.
+14. USERS
+14.1 Different roles of users
+ADMIN:
+Each account is assigned one admin. Only the administrator and so-called co-admins have
+access to the admin panel where they manage the account. The administrator creates and
+configures both users and rooms, he grants all permissions and has control over all settings
+and the recordings, which are stored in the admin panel. There is no option to delete an
+administrator, not even in the admin panel.
+CO-ADMIN:
+In case the administrator wants to entrust other users with the exclusive administrator rights,
+he can create co-admins. Co-admins have the same permissions and rights as administrators.
+The only difference between administrators and co-admins is that co-admins cannot delete 
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+30
+the administrator, vice versa it is possible though. An unlimited number of co-admins can be
+created per account. Co-admins who use the VSight platform as a user, automatically take on
+the role of a subscriber. If the co-admin is supposed to take on the role of an expert, VSight
+can create this dual role. Please contact your contact person at VSight.
+EXPERTS:
+Experts are usually the users who guide the subscribers on site remotely. A session is only
+started as soon as an expert enters the room. In the academy room, this function is performed
+by the appointed host, who needs to actively start the session.
+SUBSCRIBERS:
+Subscribers are the users who receive the support and guidance of experts from afar, such as
+service technicians or end customers on site. Subscribers and experts have the same
+permissions and features. The only difference is that only experts can start a session. This is
+due to the VSight licensing model, where all subscribers can use the platform for free.
+14.2 Call function between users
+In case your admin has granted you permission, you will find all users created in your account
+in the user section. The call function allows you to connect directly with selected users.
+Initiating a call is another way to start a Vsight Remote. This function is particularly used by
+our customers internally. For example, you can quickly contact the expert in the “back office”
+or call him back again after you have completed certain steps without the need to schedule
+another meeting. The constant planning of meetings or arranging the time when to meet in
+the room is no longer necessary - you just call each other. For the other user to receive calls,
+he must be logged in to the app or the web interface. To receive calls, you don't necessarily
+have to have the app actively open, however, you must at least be logged in to the app. 
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+31
+ Fig. 23: Call function between users
+To start a call, please go to the "Users" section u. You can now scroll through the list and
+select the desired user(s) by ticking the checkbox of the respective user v. The call is set up
+as soon as you click "Call selected users" . Once your call is accepted, a VSight Remote
+session will be started in your so-called personal meeting room.
+Please note that the call function is only available for PRO and ULTIMATE licenses, or
+can be restricted by your admin.
+15. SESSION
+VSight Remote offers several ways to start a session. Joining a room is probably the most
+common one. In case you want to schedule a session in advance, you can schedule a meeting
+in the web interface of the VSight Remote platform (https://app.vsight.io). To start a session
+spontaneously, you can call other users of your account and instantly initiate a session. In
+addition, external users can be added to a session via a guest access in the form of a link or a
+QR. Due to the VSight licensing model, at least one expert must be present to start a session.
+15.1 Session interface
+Whether you're joining a room, attending a meeting, or accepting a call, you'll always end up
+in a VSight Remote Session.
+1
+2
+3
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+32
+ Fig. 24: Session interface
+u Arrangement of the streams
+In the regular live stream mode, the video stream of your camera appears in the center of
+your screen and the streams of the other participants are listed on the left. With the help of
+the white arrows between the streams, you can switch the windows.
+v Mute yourself
+Use the microphone icon to mute or unmute your microphone.
+ Switch camera
+By clicking on the rotatable photo camera icon, you can switch between the front and back
+camera of your device.
+ Flash
+If your device has a flash, you can activate it here to increase illumination.
+ Zoom
+Control the zoom of your mobile device’s camera
+ AR+ Mode
+A click on the AR+ icon, initiates the Augmented Reality mode. The software scans and
+recognizes surfaces in the field of view of the mobile device to allow for the placement of 3D 
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+33
+annotations in the live stream. For more detailed information on features and the
+collaboration in AR+ mode, please refer to chapter 15.2.
+ Snapshot
+By clicking on the camera icon, you take a high-resolution picture with the camera of your
+device. This snapshot is then displayed in the chat history and can be used for collaboration.
+The snapshot functionality can be particularly useful for collaboration under poor network
+connection.
+ Chat
+The Chat window allows you to send text messages, as well as view the transcript of the
+session. For more information on the chat function, see chapter 15.3.
+ Add participants
+A click on this icon automatically creates a guest access link and a QR code. You can share the
+credentials via various means. For further details see chapter 11.2.
+ Leave the session
+To exit the session, tap this button. Special case: If a session has been started by a call, the
+calling user can choose when leaving the session whether he wants to end the session for
+everyone, or whether the other participants can continue the session without him.
+Please note that users of the web application can remotely control your camera's flash
+and zoom, as well as take images with your camera via the snapshot function.
+Please note that a session will last until the last expert leaves the session. Meeting links
+and guest access credentials remain valid until all users have left the session and the
+session ended.
+15.2 Invite additional participants via a guest access
+If you want to add guests or additional participants to the session at short notice, you can
+create a so-called guest access in no time during the session. 
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+34
+ Fig. 25: Create a guest access
+By clicking on the “add participant”-symbol in the upper right corner (see 24 ), a QR code u
+and an access link v are created immediately. To share these credentials with your guests,
+you can either copy the link to the clipboard  and distribute it or tap on "Share"  and select
+via which channel you want to forward the credentials.
+15.2 Collaboration in AR+ mode
+The AR+ mode allows you to place annotations in the live stream of the mobile user that stay
+in place despite movement in the room or change of perspective. For this function to work as
+precisely as possible, you have to move the camera of your mobile device to properly scan the
+entire surface, where annotations are to be placed. The scanning process was successful once
+a virtual grid of white dots appears.
+ Fig. 26: Surface scanning for AR+
+1
+1
+2
+2
+3
+3
+4
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+35
+To start the scanning process, enter the AR+ mode (see Fig. 24 ) and follow the instructions
+on your screen displayed in Fig. 26. The required movement is similar to trying to see the
+hologram on a bank note.
+Please make sure to scan the entire surface, where annotations are to be placed (e.g.,
+an entire machine), upfront, so that it is fully covered with the virtual grid. If you scan
+and annotate part by part, annotations may be slightly displaced. Detailed scanning
+thus increases the accuracy.
+As soon as the virtual grid appears on your screen, 3D annotations can be placed.
+ Fig. 27: Features in AR+
+You can annotate with 2D freehand drawings  in different colors u and stroke width v. An
+additional feature available exclusively in AR+ mode is the placement of 3D arrows . The
+direction of the arrow is defined via the drop-down menu. The arrow is placed upon a click on
+the designated position on the screen. To undo or repeat the latest steps, please use the arrow
+keys on the right edge of the screen . To delete all annotations at once, click on the trash
+icon . The snapshot function  allows you to freeze the live stream and annotate on the
+taken image instead, or to capture and save the annotated view as an image. The snapshot is
+then listed in the chat history and can be opened by web users for collaboration or can be
+downloaded for documentation purposes. The speaker icon  allows you to mute and thus
+control the incoming audio streams. The microphone icon  allows you to mute yourself and
+thus control the transmission of your audio stream.
+1 2 3 4 5 6 7
+8
+9
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+36
+To close the AR+ collaboration, click on the red “X” in the upper right corner.
+Please note that in addition to 3D-Annotations, user of the web interface can upload
+3D objects into the live stream. These can subsequently be edited by everyone. For
+turning and scaling, please use finger gestures.
+Please note that you can only use the AR+ mode if your device supports ARCore. The
+supported devices are listed here: ARCore supported devices
+15.3 Chat function
+The chat serves primarily for non-verbal communication. However, it can also be useful for
+taking notes and following the transcript of the session, as all activities and shared documents
+are listed there. Users of the web interface can additionally upload data and files to the session
+or download files from the session.
+ Fig. 28: Chat
+To send chat messages, please enter the text in the designated field u. Upon clicking on the
+send icon v your message will be sent and will then appear in the chat history visible to all
+users.
+1 2
+type here ...
+Tom Techniker: Shall I take a closer look from above?
+Paul Profi: The rotor is not centered
+Paul Profi joined the room
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+37
+15.4 Collaboration on files
+In addition to communicate with multiple users via audio/video stream, VSight Remote offers
+the possibility to integrate files into a session and edit them together.
+15.4.1 Collaboration on PDF files
+PDF documents can be uploaded into the session by users of the web application yet can be
+edited by all users. Once the collaboration was initiated, the document will open in a separate
+window displayed to all users in the main screen.
+ Fig. 29: Collaboration on PDF documents
+Use the arrow keys at the top center of the screen to scroll through the pages of the document
+u. To zoom in or out, please use the magnifying glass v. The arrow keys at the right edge of
+the screen  allow for for navigation in the current view. Both the zoom and the navigation
+are reflected on the view of all users. The speaker icon  allows you to mute and thus control
+the incoming audio streams. The microphone icon  allows you to mute yourself and thus
+control the transmission of your audio stream. The speech bubble  opens the chat window.
+To close the collaboration, tap on the red “X” on the upper right corner .
+15.4.2 Collaboration on image files
+1
+2 3
+7
+4 5 6
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+38
+You can collaborate both on snapshots from the session and on preexisting images. However,
+users of the web interface or o iOS devices have to first upload external files and ultimately
+initiate the collaboration by opening the respective image file.
+ Fig. 30: Collaboration on images
+When collaborating on an image file, you find different annotation tools in the annotation
+menu u. You can either do freehand drawings v in different stroke widths  and colors .
+The additional live pointer  allows you to highlight certain aspects, or to point out something
+without leaving traces in the image. To close the collaboration, tap the red “X” on the upper
+right corner.
+Please note that all users can make annotations, but the edited version can only be
+saved by web app users.
+16. ADD-ON FUNCTION ACADEMY ROOM
+1 2 3 4 5
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+39
+In an academy room, you can conduct sessions with up to 112 participants, e.g., for training
+purposes on a larger scale. There are 3 different roles in an academy room:
+HOST: (1 User)
+... is appointed by the admin and has the permission to start and manage the session. He
+controls or moderates the action by allowing participants, for instance when questions arise
+(hand signal), to share their audio and video stream.
+PUBLISHER: (up to 12 users)
+... are the participants who have been authorized by the host to share their audio and video
+streams during the session.
+ADDITIONAL PARTICIPANTS: (up to 100 users)
+... are the participants who join and follow the session but are not per se allowed to share
+their audio/video stream.
+A session in the academy room must be started by the host. At the beginning, the host can
+allow certain participants to share their audio/video stream during the session, thus
+appointing them as publishers. This always requires the consent of the publishers. A maximum
+of 12 audio/video streams can be published simultaneously. The roles of the publishers can
+change during a session. All other participants can follow the session with their
+microphone/camera deactivated.
+ Fig. 31: Academy room
+Each video stream is labeled with the name of the publisher on the left side u. You can control
+the incoming audio and video streams of individual publishers via the respective speaker and
+camera icons v. The white arrows on both sides allow you to browse through the video
+4
+5
+1 3
+2
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+40
+streams of all publishers. However, this is only possible as long as the host did not pin a specific
+stream in the main window. In case you want to ask a question, please raise your hand . The
+host gets notified and he can activate your audio/video stream and grant you publisher rights,
+so that you can publicly ask the question. However, this requires your consent, which you can
+give in the pop-up window . To withdraw your request, take down your hand with another
+click on the hand icon. The chat function  is still available.
+Please note that the academy room license is an add-on that is not included in your
+license and needs to be purchased extra. Please contact your admin or get in touch
+with us via info@vsight.io.
+GENERAL INFORMATION
+17. NETWORK REQUIREMENTS
+For a smooth session of high quality, we recommend a download and upload speed of 1
+Mbit/s. The minimum requirement to hold a session, is a connection speed of around 350
+Kbit/s.
+17.1 Audio and video streams
+For an excellent or acceptable session quality, the following conditions must be met:
+Criteria Precall test:
+QUALITY VIDEO RESOLUTION @FPS VIDEO KBPS PACKET LOSS
+Excellent 1280x720 @30 > 1000 < 0.5%
+Excellent 640x480 @30 > 600 < 0.5%
+Excellent 352x288 @30 > 300 < 0.5%
+Excellent 320x240 @30 > 300 < 0.5%
+Acceptable 1280x720 @30 > 350 < 3%
+Acceptable 640x480 @30 > 250 < 3%
+Acceptable 352x288 @30 > 150 < 3%
+Acceptable 320x240 @30 > 150 < 3%
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+41
+[Kbps] [Kbps] [Kbps] [Kbps]
+[Kbps] [Kbps] [Kbps] [Kbps]
+Please note that the parallel use of camera/microphone by another active application
+can affect the results (e.g., running a Precall test during a Teams meeting).
+Color code criteria of your bandwidth during the session:
+VIDEO RESOLUTION
+1920x1080 >1000 675<signal<1000 350<signal<675 <350
+1080x720 >1000 675<signal<1000 350<signal<675 <350
+640x480 >600 425<signal<600 250<signal<425 <250
+352x288 >300 225<signal<300 150<signal<225 <150
+320x240 >300 225<signal<300 150<signal<225 <150
+17.2 Audio-only stream
+The displayed audio quality is based on the following conditions:
+Criteria Precall test:
+Color coding criteria of your bandwidth during the session:
+>20 15<signal<20 10<signal<15 <10
+17.3 Data consumption
+According to our experience, a session with about 2-4 participants and an average use of
+various functions of the platform requires a data volume of about 700 - 1,000 MB per hour.
+QUALITY AUDIO KBPS PACKET LOSS
+Excellent > 30 < 0.5%
+Acceptable > 25 < 5%
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+42
+18. SUPPORTED BROWSERS AND DEVICES
+Browser support for the VSight remote web application:
+PC/MAC ANDROID IOS
+Google Chrome
+Mozilla Firefox
+Safari (12 or higher)
+Microsoft Edge (79 or later)
+Application support:
+PC/MAC
+ANDROID / SMART
+GLASSES IOS
+Web app https://app.vsight.io
+Mobile App (App/Play Store)
+Direct download link for smart glasses:
+https://app.vsight.io/downloads/remote/apk
+19. SUPPORTED FEATURES PER DEVICE
+The following features are supported by all browsers and all devices:
+Precall Test
+View rooms
+View users
+Call function between users
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+43
+Join session via guest access link
+Turn your microphone on/off
+Switch camera source during the session
+Control mobile device’s flash
+Control mobile device’s zoom
+Send chat messages
+Take snapshots
+Collaborate on snapshots
+Collaborate on documents (only passive on Android)
+2D & 3D Annotations
+Start AR+ mode
+Send reactions (only passive on Android)
+Access to academy room
+The following features are currently only supported by certain browsers and devices:
+Other
+Browser
+Safari Ios
+App
+Android
+App
+Access to Help Center
+Login via QR code
+Create guest access link
+Online tutorial for new users
+Turn your camera on/off
+Switch microphone source during the session
+View battery status of the mobile device
+Change the user interface language
+Change translation settings
+Show instant translation of messages
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+44
+Share documents
+Start collaboration on documents
+Share 3D models
+Insert 3D models in AR+ mode
+Move/Scale 3D Models (only with iOS app)
+Measurement in AR+ mode
+Screen sharing
+Start session recording
+Get session export after the session ends
+Create new tickets
+View tickets
+Attach sessions to a ticket
+Admin Panel Access
+Please note that some features may be supported by your device but are not included
+in your license. In these cases, you cannot use these functions.
+20. USEAGE OF THE PLATFORM IN CHINA
+In order to use VSight Remote in China, users who are using the platform in China have to
+activate the checkbox "I’m logging in from China" ( Fig. 1 ). All users who are not in China
+can use the platform as usual, even if other participants of the session log in from China.
+21. SUPPORTED FEATURES PER LICENCE TYPE
+
+All subscribers for free
+Guest access via link/QR (by mail or Whatsapp)
+Number of users per session 2 3 12
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+45
+File sharing (100 MB per single file)
+Start AR+ mode
+Share 3D models
+Insert 3D models in AR+ mode
+Select/Move/Scale 3D Models
+Use 3D (animated) annotations
+Measurement in AR+ mode
+View list of all users
+Call functionality between users
+Schedule meetings in advance via a link
+Session report
+Ticket system
+Recording & archiving sessions OPTIONAL OPTIONAL
+Use of smart glasses OPTIONAL OPTIONAL
+The following features can be added as an add-on to your license:
+Floating Licenses
+Session Export
+Send guest access via SMS
+White label
+Training room (12 trainers + 100 participants)
+CRM / Ticket System Integration (API)
+Azure Active Directory (AD) Integration / SSO
+AWS Physical Storage Integration (API)
+Workflow
+Additional storage space
+REMOTE COLLABORATION.
+ANYTIME. ANYWHERE.
+46
+Please note that add-on features are not included in the license. If you would like to add these
+features to your license, please contact info@vsight.io or get in touch with your personal
+contact at VSight.
+Copyright © 2022 VSight UAB
+All rights reserved
